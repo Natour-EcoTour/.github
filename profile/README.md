@@ -70,11 +70,11 @@ natour-ecotour/
 
 ## Repositórios
 
-| Repositório   | Descrição                         | Tecnologia          |
-| ------------- | --------------------------------- | ------------------- |
-| [back](link)  | API REST e lógica de negócios     | Django + Python     |
-| [app](link)   | Aplicativo mobile multiplataforma | React Native + Expo |
-| [front](link) | Painel de administração           | Next.js             |
+| Repositório                                      | Descrição                         | Tecnologia          |
+| ------------------------------------------------ | --------------------------------- | ------------------- |
+| [back](https://github.com/Natour-EcoTour/back)   | API REST e lógica de negócios     | Django + Python     |
+| [app](https://github.com/Natour-EcoTour/app)     | Aplicativo mobile multiplataforma | React Native + Expo |
+| [front](https://github.com/Natour-EcoTour/front) | Painel de administração           | Next.js             |
 
 ---
 
